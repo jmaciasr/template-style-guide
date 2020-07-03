@@ -30,28 +30,7 @@ this is a template to test faster styles page: &lt;a>, &lt;h1>, &lt;p> etc...
 						other font: none
 					</p>
 
-			</section>
-			<section>
-				<h2 class="style-guide-titles">Links</h2>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="">this is a link</a> Aliquam quis metus ac mi rutrum tempus. Praesent placerat eleifend magna viverra convallis. 
-				</p>
-			</section>
-			<section class="clearfix">
-				<h2 class="style-guide-titles">Chromia</h2>
-				<div class="chromia">
-					<p class="color1">#900c3e</p>
-					<p class="color2">#c70039</p>
-					<p class="color3">#ff5733</p>
-				</div>
-			</section>
-			<section>
-				<h2 class="style-guide-titles">Buttons</h2>
-				<div class="btn invert btn-transition" type="button">Invert</div>
-				<div class="btn btn-l btn-transition" type="button">button-L</div>
-				<div class="btn btn-s btn-transition" type="button">Button-S</div>
-
-			</section>		
+			</section>	
 		</main>
 		
 		
