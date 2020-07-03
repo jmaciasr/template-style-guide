@@ -1,16 +1,7 @@
 # template-style-guide
 this is a template to test faster styles page: &lt;a>, &lt;h1>, &lt;p> etc... 
 
- <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>Style Guide Conversable</title>
-		<link rel="stylesheet" href="css/style.css">
-		<link href="https://fonts.googleapis.com/css?family=Oswald:300,700" rel="stylesheet">
-	</head>
-	<body>
-		<main>
+<main>
 			<section>
 				<h2 class="style-guide-titles">Typography</h2>
 					<h1>Título h1-20px</h1>
@@ -32,7 +23,3 @@ this is a template to test faster styles page: &lt;a>, &lt;h1>, &lt;p> etc...
 
 			</section>	
 		</main>
-		
-		
-	</body>
-</html>
