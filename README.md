@@ -1,7 +1,6 @@
 # template-style-guide
 this is a template to test faster styles page: &lt;a>, &lt;h1>, &lt;p> etc... 
 
-			<section>
 				<h2 class="style-guide-titles">Typography</h2>
 					<h1>Título h1-20px</h1>
 					<h2>Título h2-18px</h2>
